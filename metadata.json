@@ -1,0 +1,5 @@
+{
+  "name": "VN30 Sentinel",
+  "description": "A real-time fundamental analysis tool for Vietnam's VN30 stock index using Gemini AI with Google Search grounding to evaluate market sentiment.",
+  "requestFramePermissions": []
+}
